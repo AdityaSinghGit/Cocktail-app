@@ -1,7 +1,6 @@
 # Cocktail App
 
-A new Flutter project.
-Cocktail app is an application that allows cocktail lovers to discover new cocktails and find cocktails based on the ingredients they have or want to use.
+Cocktail app is a Flutter based mobile application that allows cocktail lovers to discover new cocktails and find cocktails based on the ingredients they have or want to use.
 
 ## Getting Started
 
