@@ -1,4 +1,4 @@
-# cocktail_app
+# Cocktail App
 
 A new Flutter project.
 
